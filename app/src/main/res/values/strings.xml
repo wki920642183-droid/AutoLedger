@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">自动记账本</string>
+    <string name="service_label">自动记账-通知监听</string>
+    <string name="title_settings">设置</string>
+</resources>
